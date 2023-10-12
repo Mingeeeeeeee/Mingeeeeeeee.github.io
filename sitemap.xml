@@ -4,7 +4,16 @@
   <url>
     <loc>http://mingeeeeeeee.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2023-10-11</lastmod>
+    <lastmod>2023-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mingeeeeeeee.github.io/posts/bdae0d9b.html</loc>
+    
+    <lastmod>2023-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
 
   <url>
     <loc>http://mingeeeeeeee.github.io/</loc>
-    <lastmod>2023-10-11</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
